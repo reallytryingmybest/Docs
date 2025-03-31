@@ -16,19 +16,19 @@ BeamMP ne fonctionnera pas avec une version piratée ou dépassée de BeamNG.DRI
 L'équipe de soutient de BeamMP n'offre pas de soutient pour les versions piratées ou dépasées.
 
 ---
-### **Est-ce que BeamMP fonction sur linux?**
+### **Est-ce que BeamMP fonctionne sur linux?**
 
 Le client n'est pas officiellement supporté sur linux, cependant, vous pouvez suivre notre [guide qui explique comment utiliser BeamMP sur Linux](../game/getting-started/#2b-linux-installation)
 
 ---
-### **Pourquoi le lanceur est détecté comme un virus par mon antivuris ou par Windows Defender**
+### **Pourquoi le lanceur est détecté comme un virus par mon antivirus ou par Windows Defender**
 
-Certains logiciels antivirus pourrait identifier BeamMP comme une menace puisqu'il interact avec le réseau et d'autres aspects. Il n'y a **pas de virus ** nulle part dans le code. Le code pour le lancer, le serveur, et le client lua peut être trouvé sur notre [GitHub](https://github.com/BeamMP).
+Certains logiciels antivirus pourraient identifier BeamMP comme une menace puisqu'il interagit avec le réseau et d'autres aspects. Il n'y a **pas de virus ** nulle part dans le code. Le code pour le lancer, le serveur, et le client lua peut être trouvé sur notre [GitHub](https://github.com/BeamMP).
 
 ---
 ### **J'ai une baisse de performances en jeu, que puis-je faire?**
 
-Nous travaillons sans relâche pour rendre l'expérience multijoueur aussi stable que posible. Si vous avez déjà diminué vos paramètres graphiques et les performances sont encore mauvaises, envisager de jouer sur un serveur avec moins de joueurs. Le jeu est principalement dépendant du CPU lorsque vous jouez avec plusieurs persones, les CPU plus ancients (Même quadcore) vont donc avoir plus de difficultée à suivre qu'avec moins de joueurs. (En général: 1 voiture par fil(Thread) de CPU)
+Nous travaillons sans relâche pour rendre l'expérience multijoueur aussi stable que possible. Si vous avez déjà diminué vos paramètres graphiques et les performances sont encore mauvaises, envisager de jouer sur un serveur avec moins de joueurs. Le jeu est principalement dépendant du CPU lorsque vous jouez avec plusieurs personnes, les CPU plus ancients (Même quadcore) vont donc avoir plus de difficultée à suivre qu'avec moins de joueurs. (En général: 1 voiture par fil(Thread) de CPU)
 
 ---
 ## **Divers**
